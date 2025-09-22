@@ -1,6 +1,7 @@
-# Pseudomonas_ecological_trap
+# Fluorescent Deception
 
-This GitHub Repository includes all data and analysis relevent to the paper "Bioluminescent Betrayal: Insect-pathogenic fluorescent Pseudomonas can create an ecological trap for aphids" by Zahavah Rojer et al, 202X.
+
+This GitHub Repository includes all data and analysis relevent to the paper "Fluorescent Deception: Insect-pathogenic fluorescent *Pseudomonas* can create an ecological trap for aphids" by Zahavah Rojer et al, 202X.
 
 ## Table of Contents
 
